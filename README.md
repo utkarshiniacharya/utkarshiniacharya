@@ -1,4 +1,4 @@
-### Hello!
+<h2 align="center">Hello!</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=utkarshiniacharya&count_private=true&show_icons=true&theme=midnight-purple" alt="Github Stats" />
 </p>
