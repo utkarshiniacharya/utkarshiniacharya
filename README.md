@@ -17,6 +17,7 @@
 </p>
 
 <h2>How to reach me</h2>
+
 * [Website](https://utkarshiniacharya.netlify.app)
 * [LinkedIn](https://www.linkedin.com/in/utkarshini-acharya-b14b94152)
 * [Email](mailto:utkarshiniacharya@gmail.com)
