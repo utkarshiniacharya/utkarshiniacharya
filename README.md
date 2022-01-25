@@ -18,8 +18,15 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshiniacharya&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=A4B3D2&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=DDDDDD&currStreakLabel=A4B3D2&sideLabels=969696&dates=969696" alt="Github Streak" />
 </p>
 
-<h2>How to reach me</h2>
+<h2>How to reach me:</h2>
 
-* [Portfolio](https://utkarshiniacharya.netlify.app)
-* [LinkedIn](https://www.linkedin.com/in/utkarshini-acharya-b14b94152)
-* [Email](mailto:utkarshiniacharya@gmail.com)
+[<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/portfolio-icon.png" alt="Portfolio" height="50" width="50" />](https://utkarshiniacharya.netlify.app)
+&nbsp;
+&nbsp;
+[<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/email-icon.png" alt="Email" height="50" width="50" />](mailto:utkarshiniacharya@gmail.com)
+&nbsp;
+&nbsp;
+[<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/linkedin-icon.png" alt="Linkedin" height="50" width="50" />](https://www.linkedin.com/in/utkarshini-acharya-b14b94152)
+&nbsp;
+&nbsp;
+[<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/instagram-icon.png" alt="Instagram" height="50" width="50" />](https://www.linkedin.com/in/utkarshini-acharya-b14b94152)
