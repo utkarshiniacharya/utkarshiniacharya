@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/github-banner.png" alt="Hello! I'm Utkarshini Acharya." />
-</div>
-
 <h2>About me</h2>
 <p>Hi, I am Utkarshini Acharya. I am a Software Engineer. My interests include Software Development, Problem Solving, and Data Structures & Algorithms. I believe in writing clean and sustainable code.</p>
 <p>I'm currently working at DeltaX as a Full-stack Developer. I am involved in both backend and front-end aspects of Product Development. I have implemented .NET Core Microservices, RESTful CRUD API endpoints for the platform and worked on multiple front-end features.</p>
