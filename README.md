@@ -32,4 +32,4 @@
 [<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/github-icon.png" alt="Github" height="50" width="50" />](https://github.com/utkarshiniacharya)
 &nbsp;
 &nbsp;
-[<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/instagram-icon.png" alt="Instagram" height="50" width="50" />](https://www.linkedin.com/in/utkarshini-acharya-b14b94152)
+[<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/instagram-icon.png" alt="Instagram" height="50" width="50" />](https://www.instagram.com/utkarshini_acharya)
