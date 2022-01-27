@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/github-banner.png" alt="Hello! I'm Utkarshini Acharya." />
+    <img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/githubBanner.png" alt="Hello! I'm Utkarshini Acharya." />
 </div>
 
 <h2>About me</h2>
