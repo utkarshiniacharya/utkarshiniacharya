@@ -28,7 +28,7 @@
 [<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/email-icon.png" alt="Email" height="50" width="50" />](mailto:utkarshiniacharya@gmail.com)
 &nbsp;
 &nbsp;
-[<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/linkedin-icon.png" alt="Linkedin" height="50" width="50" />](https://www.linkedin.com/in/utkarshini-acharya-b14b94152)
+[<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/linkedin-icon.png" alt="Linkedin" height="50" width="50" />](https://www.linkedin.com/in/utkarshiniacharya)
 &nbsp;
 &nbsp;
 [<img src="https://github.com/utkarshiniacharya/utkarshiniacharya/blob/main/images/github-icon.png" alt="Github" height="50" width="50" />](https://github.com/utkarshiniacharya)
