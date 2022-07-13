@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 <p>Hi, I am Utkarshini Acharya. I am a Software Engineer. My interests include Software Development, Problem Solving, and Data Structures & Algorithms. I believe in writing clean and sustainable code.</p>
-<p>I am employed at Expedia Group as Software Development Engineer - II (Backend). I am currently working on self served data platform which could help teams move and explore their data in an elegant way.</p>
+<p>I am employed at Expedia Group as Software Development Engineer - II (Backend). I am currently working on self served data platform which could help teams move and explore their data in an elegant way. Frameworks/Tools: Java, Core Java, Spring frameworks, Springboot, Maven</p>
 <p>I previously worked at DeltaX as a Full-stack Developer. I was involved in both backend and front-end aspects of Product Development. I implemented .NET Core Microservices, RESTful CRUD API endpoints for the platform and worked on multiple front-end features.</p>
 <p>I am skilled in C#, Vue, Vuex, Javascript and Transact-SQL. I also have experience working with technologies and frameworks like ASP.NET MVC, ASP.NET Core MVC. I have a keen interest in web development and am looking forward to exploring more and building something useful.</p>
 
