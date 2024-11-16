@@ -8,8 +8,8 @@
 <p>I previously worked at DeltaX as a Full-stack Developer. I was involved in both backend and front-end aspects of Product Development. I implemented .NET Core Microservices, RESTful CRUD API endpoints for the platform and worked on multiple front-end features. Frameworks/Tools: C#, Vue, Vuex, Javascript, Transact-SQL, ASP.NET MVC, ASP.NET Core MVC.</p> -->
 
 <h2>Github Stats</h2>
-<a href="https://utkarshiniacharya.netlify.app/"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarshiniacharya&count_private=true&show_icons=true&theme=react" alt="Github Stats" /></a>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshiniacharya&theme=dark&date_format=j%20M%5B%20Y%5D&background=20232A&border=FFFFFF&stroke=FFFFFF&ring=36E4FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=DDDDDD&currStreakLabel=36E4FF&sideLabels=969696&dates=969696" alt="Github Streak" />
+<a href="https://utkarshiniacharya.netlify.app/"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarshiniacharya&count_private=true&show_icons=true&bg_color=000000&title_color=A4B3D2&text_color=F7F4EF&icon_color=A4B3D2&border_color=F7F4EF" alt="Github Stats" /></a>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshiniacharya&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=A4B3D2&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=DDDDDD&currStreakLabel=A4B3D2&sideLabels=969696&dates=969696" alt="Github Streak" />
 
 
 <h2>How to reach me:</h2>
