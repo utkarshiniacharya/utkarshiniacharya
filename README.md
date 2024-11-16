@@ -16,7 +16,6 @@
 <h2>Github Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=utkarshiniacharya&count_private=true&show_icons=true&bg_color=000000&title_color=A4B3D2&text_color=F7F4EF&icon_color=A4B3D2&border_color=F7F4EF" alt="Github Stats" />
-    <br />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshiniacharya&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=A4B3D2&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=DDDDDD&currStreakLabel=A4B3D2&sideLabels=969696&dates=969696" alt="Github Streak" />
 </p>
 
